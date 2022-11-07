@@ -1,6 +1,6 @@
 # Hey, I'm Shanks!
 
-I'm a huge F1 fan and I know a little Python.
+I'm a huge F1 fan and I know a little Python🐍.
 
 ## What I'm working on
 - 🏎️ [f1data](https://github.com/warshanks/f1data), a Python GUI/frontend for [Fast-F1](https://github.com/theOehrly/Fast-F1) by [theOehrly](https://github.com/theOehrly)
