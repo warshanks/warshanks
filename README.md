@@ -8,5 +8,5 @@ I'm a huge F1 fan and I know a little Python.
 - 🧛[funkydrac](https://github.com/warshanks/funkydrac), two error sensitive oh-my-zsh themes based on [funky](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme), and an oh-my-posh theme based on [aliens](https://ohmyposh.dev/docs/themes#aliens)
 
 ## My stats
-[![Warshanks's GitHub stats](https://github-readme-stats.vercel.app/api?username=warshanks&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra=/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshanks&layout=compact&theme=dracula)](https://github.com/anuraghazra=/github-readme-stats)
+[![Warshanks's GitHub stats](https://github-readme-stats.vercel.app/api?username=warshanks&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshanks&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
