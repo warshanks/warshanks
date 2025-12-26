@@ -10,7 +10,7 @@ I'm a Python developer and AI enthusiast focused on **LLM optimization** and **i
 
 ### 🔧 Open WebUI Contributions
 - <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="16" height="16" valign="middle" alt="Anthropic"> [owui_anthropic_function](https://github.com/warshanks/owui_anthropic_function) — *Anthropic integration for Open WebUI that provides web search, thinking, and more.*
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ChatGPT_Search_logo_Black_Square_-_rounded_corners.svg/2560px-ChatGPT_Search_logo_Black_Square_-_rounded_corners.svg.png" width="16" height="16" valign="middle" alt="OpenAI"> [gpt_image_pipe](https://github.com/warshanks/gpt_image_pipe) — *Conversational image generation and editing for OpenAI's GPT-Image models.*
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Chat0.png" width="16" height="16" valign="middle" alt="OpenAI"> [gpt_image_pipe](https://github.com/warshanks/gpt_image_pipe) — *Conversational image generation and editing for OpenAI's GPT-Image models.*
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gemini_sparkle_v002.svg" width="16" height="16" valign="middle" alt="Google Gemini"> [Suurt8ll](https://github.com/suurt8ll)'s [open_webui_functions](https://github.com/suurt8ll/open_webui_functions) — *Contributor on Gemini-related functions.*
 
 ### <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="22" height="22" valign="middle" alt="Hugging Face"> Popular HF Links
