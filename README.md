@@ -13,9 +13,9 @@ I'm a Python developer and AI enthusiast focused on **LLM optimization** and **i
 - 🖼️ [gpt_image_pipe](https://github.com/warshanks/gpt_image_pipe) — *Conversational image generation and editing for OpenAI's GPT-Image models.*
 - 🛠️ [Suurt8ll](https://github.com/suurt8ll)'s [open_webui_functions](https://github.com/suurt8ll/open_webui_functions) — *Contributor on Gemini-related functions.*
 
-### 🤗 Popular HF Links
+### <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="22" height="22" valign="middle" alt="Hugging Face"> Popular HF Links
 - 🗜️ [Qwen3-4B-Instruct-2507-AWQ](https://huggingface.co/warshanks/Qwen3-4B-Instruct-2507-AWQ)
-- 🧪 [Medgemma MLX Conversions](https://huggingface.co/collections/warshanks/medgemma-mlx)
+- 🧪 [Medgemma MLX Collection](https://huggingface.co/collections/warshanks/medgemma-mlx)
 - 🩻 [Medgemma 4B IT Space](https://huggingface.co/spaces/warshanks/medgemma-4b-it)
 - 🩻 [Medgemma 27B IT Space](https://huggingface.co/spaces/warshanks/medgemma-27b-it)
 
@@ -23,8 +23,10 @@ I'm a Python developer and AI enthusiast focused on **LLM optimization** and **i
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=plastic&logo=nvidia&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=plastic)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-121827?style=plastic&logo=huggingface)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=plastic&logo=nginxproxymanager&logoColor=white)
 
 ### 📫 Reach Me
-- 🤗 **Hugging Face:** [warshanks](https://huggingface.co/warshanks)
-- 🐍 **GitHub:** You're already here!
+- <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="16" height="16" valign="middle" alt="Hugging Face"> **Hugging Face:** [warshanks](https://huggingface.co/warshanks)
+- <img src="https://cdn.simpleicons.org/github" width="16" height="16" valign="middle" alt="GitHub"> **GitHub:** You're already here!
