@@ -29,4 +29,4 @@ I'm a Python developer and AI enthusiast focused on **LLM optimization** and **i
 
 ### 📫 Reach Me
 - <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="16" height="16" valign="middle" alt="Hugging Face"> **Hugging Face:** [warshanks](https://huggingface.co/warshanks)
-- <img src="https://cdn.simpleicons.org/github" width="16" height="16" valign="middle" alt="GitHub"> **GitHub:** You're already here!
+- <img src="https://cdn.simpleicons.org/github/FFFFFF" width="16" height="16" valign="middle" alt="GitHub"> **GitHub:** You're already here!
