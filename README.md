@@ -9,7 +9,7 @@ I'm a Python developer and AI enthusiast focused on **LLM optimization** and **i
 - ⚙️ **Gaming Tools:** Maintaining [nukecalc](https://warshanks.github.io/nukecalc/), a specialized nuclear power calculator for Factorio.
 
 ### 🔧 Open WebUI Contributions
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/2560px-Claude_AI_symbol.svg.png" width="19" height="19" valign="text-bottom" alt="Anthropic"> [owui_anthropic_function](https://github.com/warshanks/owui_anthropic_function) — *Anthropic integration for Open WebUI that provides web search, thinking, and more.*
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="19" height="19" valign="text-bottom" alt="Anthropic"> [owui_anthropic_function](https://github.com/warshanks/owui_anthropic_function) — *Anthropic integration for Open WebUI that provides web search, thinking, and more.*
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Chat0.png" width="19" height="19" valign="text-bottom" alt="OpenAI"> [gpt_image_pipe](https://github.com/warshanks/gpt_image_pipe) — *Conversational image generation and editing for OpenAI's GPT-Image models.*
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gemini_sparkle_v002.svg" width="19" height="19" valign="text-bottom" alt="Google Gemini"> [Suurt8ll](https://github.com/suurt8ll)'s [open_webui_functions](https://github.com/suurt8ll/open_webui_functions) — *Contributor on Gemini-related functions.*
 
