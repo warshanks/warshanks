@@ -6,7 +6,7 @@ I'm a Python developer and AI enthusiast focused on **LLM optimization** and **i
 - 🧠 **AI & LLMs:** Quantizing and converting models to **AWQ/MLX** formats and building custom integrations for **Open WebUI**.
 - 🩺 **AI in Healthcare:** Building tools to help providers and researchers with their work.
 - 🏁 **Motorsport Data:** Exploring F1 telemetry and supporting open-source motorsport projects like [Fast-F1](https://github.com/theOehrly/Fast-F1).
-- ⚙️ **Gaming Tools:** Maintaining [nukecalc](https://github.com/warshanks/nukecalc), a specialized nuclear power calculator for Factorio.
+- ⚙️ **Gaming Tools:** Maintaining [nukecalc](https://warshanks.github.io/nukecalc/), a specialized nuclear power calculator for Factorio.
 
 ### 🔧 Open WebUI Contributions
 - 🤖 [owui_anthropic_function](https://github.com/warshanks/owui_anthropic_function) — *Anthropic integration for Open WebUI that provides web search, thinking, and more.*
