@@ -15,9 +15,10 @@ I'm a Python developer and AI enthusiast focused on **LLM optimization** and **i
 
 ### <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="22" height="22" valign="middle" alt="Hugging Face"> Popular HF Links
 - 🗜️ [Qwen3-4B-Instruct-2507-AWQ](https://huggingface.co/warshanks/Qwen3-4B-Instruct-2507-AWQ)
-- 🧪 [Medgemma MLX Collection](https://huggingface.co/collections/warshanks/medgemma-mlx)
-- 🩻 [Medgemma 4B IT Space](https://huggingface.co/spaces/warshanks/medgemma-4b-it)
-- 🩻 [Medgemma 27B IT Space](https://huggingface.co/spaces/warshanks/medgemma-27b-it)
+- 🧪 [MedGemma MLX Collection](https://huggingface.co/collections/warshanks/medgemma-mlx)
+- 🩻 [MedGemma 1.5 4B IT Space](https://huggingface.co/spaces/warshanks/medgemma-1.5-4b-it)
+- 🩻 [MedGemma 4B IT Space](https://huggingface.co/spaces/warshanks/medgemma-4b-it)
+- 🩻 [MedGemma 27B IT Space](https://huggingface.co/spaces/warshanks/medgemma-27b-it)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
